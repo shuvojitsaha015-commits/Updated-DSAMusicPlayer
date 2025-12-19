@@ -3,6 +3,8 @@ CSE 114 / ICT 4156, Data Structure and Algorithms Sessional project
 
 installer will install the application in c/program files/Dsamusicplayer
 
+Download https://github.com/shuvojitsaha015-commits/Updated-DSAMusicPlayer/releases
+
 ToNote: Has issue with pause icon due to unicode breaking. The total library card showcasing/playing next is wrong.but not affects other areas.
 
 ToDo: Convert this project into android application instead of desktop for actual day to day utilization. 
