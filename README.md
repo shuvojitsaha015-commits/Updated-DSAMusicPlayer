@@ -23,8 +23,6 @@ A fully-functional, production-ready music player that demonstrates practical ap
 - [Project Structure](#-project-structure)
 - [Performance Metrics](#-performance-metrics)
 - [Architecture](#-architecture)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
