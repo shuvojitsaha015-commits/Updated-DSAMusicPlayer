@@ -162,10 +162,8 @@ TrendingManager (custom scoring)
 
 ## 🚀 Installation
 
-### **Prerequisites**
-- **Java JDK 21** or higher ([Download](https://adoptium.net/))
-- **Maven 3.9+** ([Download](https://maven.apache.org/download.cgi))
-- **Git** (for cloning)
+### **Installer**
+- **DSAmusicplayer** ([Download](https://github.com/shuvojitsaha015-commits/Updated-DSAMusicPlayer/releases/download/Release/DsaMusicPlayer-1.0.exe))
 
 
 ---
